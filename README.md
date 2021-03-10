@@ -9,7 +9,7 @@ Instalación de java -> https://drive.google.com/file/d/15zzd2p1x2S1nyI4RrjGgWNn
 Instalación de IntelliJ IDEA -> https://drive.google.com/file/d/1Lm8Dm_g0uJ9PwXyvHMiM5hTvqR8I3FeG/view?usp=sharing
 
 # Uso del programa
-https://github.com/RaulGzz25/Evidencia-DesarrolloJava.git
+Usar git-clone 
 
 # Creditos 
 Raúl González --- 2787821
